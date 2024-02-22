@@ -341,7 +341,7 @@ const projects = {
     },
     {
       name: "Portfolio",
-      url: "https://github.com/SuryaLakshmananS",
+      url: "https://github.com/SuryaLakshmananS/Surya_Portfolio",
       description: "Designed and developed a responsive portfolio website using React.js, showcasing a collection of personal projects, skills, and experiences. Seamlessly integrated animations and transitions to enhance user engagement and navigation experience",
       languages: [
         {
